@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Godot\\Projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0AA9A9-1DC2-47CB-ABE8-D5D13AD4DBEA}|\u4E09\u56FD\u53F6\u5B50\u724C.csproj|d:\\godot\\projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\ui\\gamepausedscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0AA9A9-1DC2-47CB-ABE8-D5D13AD4DBEA}|\u4E09\u56FD\u53F6\u5B50\u724C.csproj|solutionrelative:ui\\gamepausedscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0AA9A9-1DC2-47CB-ABE8-D5D13AD4DBEA}|\u4E09\u56FD\u53F6\u5B50\u724C.csproj|d:\\godot\\projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0AA9A9-1DC2-47CB-ABE8-D5D13AD4DBEA}|\u4E09\u56FD\u53F6\u5B50\u724C.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0AA9A9-1DC2-47CB-ABE8-D5D13AD4DBEA}|\u4E09\u56FD\u53F6\u5B50\u724C.csproj|d:\\godot\\projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0AA9A9-1DC2-47CB-ABE8-D5D13AD4DBEA}|\u4E09\u56FD\u53F6\u5B50\u724C.csproj|solutionrelative:ui\\gamepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0AA9A9-1DC2-47CB-ABE8-D5D13AD4DBEA}|\u4E09\u56FD\u53F6\u5B50\u724C.csproj|d:\\godot\\projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\scenes\\special_effects\\laser2dwithline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0AA9A9-1DC2-47CB-ABE8-D5D13AD4DBEA}|\u4E09\u56FD\u53F6\u5B50\u724C.csproj|solutionrelative:scenes\\special_effects\\laser2dwithline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF0AA9A9-1DC2-47CB-ABE8-D5D13AD4DBEA}|\u4E09\u56FD\u53F6\u5B50\u724C.csproj|d:\\godot\\projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\ui\\heart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF0AA9A9-1DC2-47CB-ABE8-D5D13AD4DBEA}|\u4E09\u56FD\u53F6\u5B50\u724C.csproj|solutionrelative:ui\\heart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Godot\\Projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "D:\\Godot\\Projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\Main.cs",
+              "RelativeToolTip": "Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T01:50:50.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Laser2dWithLine.cs",
+              "DocumentMoniker": "D:\\Godot\\Projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\scenes\\special_effects\\Laser2dWithLine.cs",
+              "RelativeDocumentMoniker": "scenes\\special_effects\\Laser2dWithLine.cs",
+              "ToolTip": "D:\\Godot\\Projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\scenes\\special_effects\\Laser2dWithLine.cs",
+              "RelativeToolTip": "scenes\\special_effects\\Laser2dWithLine.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:19:09.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Heart.cs",
+              "DocumentMoniker": "D:\\Godot\\Projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\ui\\Heart.cs",
+              "RelativeDocumentMoniker": "ui\\Heart.cs",
+              "ToolTip": "D:\\Godot\\Projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\ui\\Heart.cs",
+              "RelativeToolTip": "ui\\Heart.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:18:50.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamePausedScene.cs",
+              "DocumentMoniker": "D:\\Godot\\Projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\ui\\GamePausedScene.cs",
+              "RelativeDocumentMoniker": "ui\\GamePausedScene.cs",
+              "ToolTip": "D:\\Godot\\Projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\ui\\GamePausedScene.cs",
+              "RelativeToolTip": "ui\\GamePausedScene.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwEYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T08:55:45.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GamePanel.cs",
+              "DocumentMoniker": "D:\\Godot\\Projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\ui\\GamePanel.cs",
+              "RelativeDocumentMoniker": "ui\\GamePanel.cs",
+              "ToolTip": "D:\\Godot\\Projects\\\u4E09\u56FD\u53F6\u5B50\u724C\\ui\\GamePanel.cs",
+              "RelativeToolTip": "ui\\GamePanel.cs",
+              "ViewState": "AgIAAGkCAAAAAAAAAADwv3ICAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:38:56.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

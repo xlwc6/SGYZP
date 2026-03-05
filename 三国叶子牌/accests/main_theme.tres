@@ -1,0 +1,29 @@
+[gd_resource type="Theme" load_steps=5 format=3 uid="uid://c53iigoj10dia"]
+
+[ext_resource type="FontFile" uid="uid://bswxlno53exnn" path="res://accests/fonts/VonwaonBitmap-12px.ttf" id="1_hqpv2"]
+[ext_resource type="Texture2D" uid="uid://cip7qbttkka5r" path="res://accests/tiles/tilemap.png" id="1_xg3w6"]
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_xg3w6"]
+texture = ExtResource("1_xg3w6")
+texture_margin_left = 5.0
+texture_margin_top = 5.0
+texture_margin_right = 4.0
+texture_margin_bottom = 5.0
+region_rect = Rect2(297, 33, 31, 32)
+
+[sub_resource type="StyleBoxTexture" id="StyleBoxTexture_10msw"]
+texture = ExtResource("1_xg3w6")
+texture_margin_left = 4.0
+texture_margin_top = 4.0
+texture_margin_right = 4.0
+texture_margin_bottom = 4.0
+region_rect = Rect2(297, 66, 32, 32)
+
+[resource]
+default_font = ExtResource("1_hqpv2")
+default_font_size = 12
+Button/colors/font_focus_color = Color(0.09803922, 0.09803922, 0.09803922, 0.5294118)
+Button/colors/font_hover_color = Color(0.9490196, 0.9490196, 0.9490196, 0.61960787)
+Button/styles/focus = SubResource("StyleBoxTexture_xg3w6")
+Button/styles/hover = SubResource("StyleBoxTexture_xg3w6")
+Button/styles/normal = SubResource("StyleBoxTexture_10msw")

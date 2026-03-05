@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RsIXYHcFySE=",
+  "success": true,
+  "projectFilePath": "D:\\Godot\\Projects\\三国叶子牌\\三国叶子牌.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jun\\.nuget\\packages\\godot.sourcegenerators\\4.5.1\\godot.sourcegenerators.4.5.1.nupkg.sha512",
+    "C:\\Users\\Jun\\.nuget\\packages\\godotsharp\\4.5.1\\godotsharp.4.5.1.nupkg.sha512",
+    "C:\\Users\\Jun\\.nuget\\packages\\godotsharpeditor\\4.5.1\\godotsharpeditor.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
